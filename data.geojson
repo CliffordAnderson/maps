@@ -6,7 +6,7 @@
       "properties": {
         "name": "Library",
         "href": "http://library.vanderbilt.edu",
-        "type": "Campus Location"
+        "transcript": "The library began in ??? year. It became the Joint University Library in ???"
       },
       "geometry": {
         "type": "Point",
