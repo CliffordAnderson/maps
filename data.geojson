@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Library"
+        "name": "Library",
+        "href": "http://library.vanderbilt.edu",
+        "type": "Campus Location"
       },
       "geometry": {
         "type": "Point",
