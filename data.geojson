@@ -1,30 +1,31 @@
 {
-   "type": "FeatureCollection",
-   "features": [
-       {
-           "type": "Feature",
-           "properties": {
-           },
-           "geometry": {
-               "type": "Point",
-               "coordinates": [
-                   -76.9921875,
-                   38.272688535980976
-               ]
-           }
-       },
-       {
-           "type": "Feature",
-           "properties": {
-               "name": "Vanderbilt University"
-           },
-           "geometry": {
-               "type": "Point",
-               "coordinates": [
-                   -86.8004035949707,
-                   36.14681608682845
-               ]
-           }
-       }
-   ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "51.50805555555556",
+          "-0.12472222222222222"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Indiana University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "39.775555555555556",
+          "-86.17666666666666"
+        ]
+      }
+    }
+  ]
 }
