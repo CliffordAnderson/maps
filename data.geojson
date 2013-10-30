@@ -2,18 +2,25 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
+      "type": "feature",
       "properties": {
-        "name": "Library",
-        "href": "http://library.vanderbilt.edu",
-        "transcript": "The library began in ??? year. It became the Joint University Library in ???"
+        "text": "London"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -86.8006181716919,
-          36.14513532597229
-        ]
+        "coordinates": "51.50805555555556",
+        "coordinates": "-0.12472222222222222"
+      }
+    },
+    {
+      "type": "feature",
+      "properties": {
+        "text": "Indiana University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": "39.775555555555556",
+        "coordinates": "-86.17666666666666"
       }
     }
   ]
