@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Long Island Sound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-72.90138888888889",
+          "41.105"
+        ]
+      }
+    }
+  ]
+}
