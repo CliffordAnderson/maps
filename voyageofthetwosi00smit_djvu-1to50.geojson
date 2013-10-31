@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Internet Archive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.46027777777778",
+          "37.8"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Long Island Sound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-72.90138888888889",
+          "41.105"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "boj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.7715",
+          "35.6861"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Long Island Sound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-72.90138888888889",
+          "41.105"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Atlantic ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-68.35",
+          "-52.35"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.483333333333333",
+          "41.9"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.66666666666667",
+          "33.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Mediterranean Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "18.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.483333333333333",
+          "41.9"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.66666666666667",
+          "33.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.99027777777778",
+          "40.69277777777778"
+        ]
+      }
+    }
+  ]
+}
