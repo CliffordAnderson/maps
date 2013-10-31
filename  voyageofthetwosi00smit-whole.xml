@@ -1,0 +1,2722 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Internet Archive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.46027777777778",
+          "37.8"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Long Island Sound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-72.90138888888889",
+          "41.105"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "boj"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.7715",
+          "35.6861"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Long Island Sound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-72.90138888888889",
+          "41.105"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Atlantic ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-68.35",
+          "-52.35"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.483333333333333",
+          "41.9"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.66666666666667",
+          "33.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Mediterranean Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "18.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "12.483333333333333",
+          "41.9"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-86.66666666666667",
+          "33.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Brooklyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.99027777777778",
+          "40.69277777777778"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.99416666666667",
+          "40.72833333333333"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "University of Stockholm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "18.058333333333334",
+          "59.36527777777778"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Long Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.3",
+          "40.8"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.355165",
+          "35.458606"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New Orleans"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.07055555555556",
+          "29.96472222222222"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Atlantic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-68.35",
+          "-52.35"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Indian Ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "80.0",
+          "-20.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.99416666666667",
+          "40.72833333333333"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "25.063",
+          "-29.046"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Table Mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "18.403108333333332",
+          "-33.95731388888889"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Indian Ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "80.0",
+          "-20.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Cape Horn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-67.27166666666666",
+          "-55.97972222222222"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Straits of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Indian Ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "80.0",
+          "-20.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "St. Paul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-170.28416666666666",
+          "57.125"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Atlantic ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-68.35",
+          "-52.35"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Finland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "27.0",
+          "65.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Valparaiso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-71.61666666666666",
+          "-33.05"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Portsmouth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-1.0833333333333333",
+          "50.81666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "78.0",
+          "21.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Philippine Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.0",
+          "14.583333333333334"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "104.28333333333333",
+          "1.3666666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Straits of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Island of Borneo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.0",
+          "1.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "103.8",
+          "1.3666666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "103.8",
+          "1.3666666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "25.063",
+          "-29.046"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "103.8",
+          "1.3666666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Luzon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.25138888888888",
+          "38.01444444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Luzon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.25138888888888",
+          "38.01444444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Pacific Ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-68.35",
+          "-52.35"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Formosa Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.6989",
+          "51.5639"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Poyang Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "116.21666666666667",
+          "29.15"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Custom House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-6.253147",
+          "53.348544"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Liverpool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.00083333333333",
+          "40.39083333333333"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Englishtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.359821",
+          "40.295965"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "103.8",
+          "1.3666666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Tientsin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "117.195",
+          "39.125"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.0",
+          "23.766666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Pekin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.328539",
+          "47.791465"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Long Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.3",
+          "40.8"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Brookhaven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-72.91527777777777",
+          "40.77916666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Amherst Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "166.08333333333334",
+          "-50.7"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Englishtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.359821",
+          "40.295965"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.0",
+          "23.766666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Great Britain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-2.422",
+          "53.826"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "St. Andrew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-2.5780555555555553",
+          "49.448055555555555"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.0",
+          "47.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Gibraltar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-5.353",
+          "36.143"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Yellow sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "123.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "25.063",
+          "-29.046"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Korean strait"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "129.79666666666665",
+          "34.599444444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Yokohama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.63333333333333",
+          "35.45"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Custom House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-6.253147",
+          "53.348544"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.99416666666667",
+          "40.72833333333333"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Windsor Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.6044444444444445",
+          "51.48388888888889"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-0.12472222222222222",
+          "51.50805555555556"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Ningpoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.55",
+          "29.866666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.355165",
+          "35.458606"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Gulf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "51.5475",
+          "26.904722222222222"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Susaki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "133.28333333333333",
+          "33.4"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "2.0",
+          "47.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.0",
+          "23.766666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Pekin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-98.328539",
+          "47.791465"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Bath"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-69.8225",
+          "43.91638888888889"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Green Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.11277777777778",
+          "22.28472222222222"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Lamma Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.11666666666666",
+          "22.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Canton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "113.26472222222222",
+          "23.108888888888888"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Lamma Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.11666666666666",
+          "22.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Tientsin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "117.195",
+          "39.125"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Shanghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.5",
+          "31.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Victoria Peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.14382777777777",
+          "22.275469444444443"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "strait of Malacca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "102.89",
+          "1.43"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "103.8",
+          "1.3666666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Yellow Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "123.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Kanagawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.62944444444443",
+          "35.47694444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Nippon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.74555555555557",
+          "35.658611111111114"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Liverpool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-2.9833333333333334",
+          "53.4"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hartford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-85.69444444444444",
+          "31.10361111111111"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Englishtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.359821",
+          "40.295965"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "strait of Macassar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "118.95",
+          "1.0333333333333334"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Hong Kong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "114.1588888888889",
+          "22.278333333333332"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Celebes Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "125.43333333333334",
+          "3.75"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Java Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.2",
+          "-6.766666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Indian Ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "80.0",
+          "-20.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Philippine Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.0",
+          "14.583333333333334"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Luzon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.25138888888888",
+          "38.01444444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Mindoro Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "120.9",
+          "13.2"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Sulu Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.0",
+          "6.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Luzon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-122.25138888888888",
+          "38.01444444444444"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.0",
+          "14.583333333333334"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Sulu Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.88333333333334",
+          "11.883333333333333"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Sulu Archipelago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "121.0",
+          "6.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Basilan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "122.03777777777778",
+          "6.580555555555556"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Makassar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "119.41666666666667",
+          "-5.133333333333334"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Manado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "124.84126111111111",
+          "1.4930555555555556"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Java Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.2",
+          "-6.766666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Singapore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "103.8",
+          "1.3666666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Indian Ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "80.0",
+          "-20.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Indian Ocean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "80.0",
+          "-20.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Anjer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.88333333333334",
+          "-6.066666666666666"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Jamestown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-76.7775",
+          "37.20916666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Longwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-5.666666666666667",
+          "-15.933333333333334"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0",
+          "40.71666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Liverpool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-90.00083333333333",
+          "40.39083333333333"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Cape Hatteras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-75.51995",
+          "35.25458"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "North River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.99194444444444",
+          "40.78666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "Long Island Sound"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-72.90138888888889",
+          "41.105"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "East River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.86722222222222",
+          "40.79666666666667"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "text": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "105.0",
+          "35.0"
+        ]
+      }
+    }
+  ]
+}
