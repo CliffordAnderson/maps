@@ -20,7 +20,7 @@ let $csv :=
       <record>
         {$entity/text}
         <lon>{fn:substring-before($entity/disambiguated/geo, " ")}</lon>
-        <lat>{fn:substring-before($entity/disambiguated/geo, " ")}</lat>
+        <lat>{fn:substring-after($entity/disambiguated/geo, " ")}</lat>
       </record>
   }
   </csv>
