@@ -1,1 +1,0 @@
-http post http://access.alchemyapi.com/calls/url/URLGetRankedNamedEntities apikey=Your Key Here url='https://raw.github.com/iulibdcs/tei_text/master/vwwp_text/VAB7017.txt' --form
